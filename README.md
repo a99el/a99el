@@ -32,7 +32,7 @@ aseel = {
 
 ## Featured Projects
 
-### 🔍 FraudLens — AML Alert Summarization Platform
+### FraudLens — AML Alert Summarization Platform
 **FastAPI · LangChain · OpenAI · ChromaDB · Next.js**
 
 RAG-powered platform that turns flagged transactions into structured, citation-backed AML case briefs in English and Arabic — cutting alert review from hours to under a minute. Detects five AML typologies (structuring, rapid movement, high-risk jurisdictions, round amounts, volume spikes), with every red flag traced to its triggering transactions for auditability. Native Arabic generation with RTL layout and compliance terminology.
@@ -40,7 +40,7 @@ RAG-powered platform that turns flagged transactions into structured, citation-b
 [![Repo](https://img.shields.io/badge/Code-fraud--alert--summarizer-181717?style=flat-square&logo=github)](https://github.com/a99el/fraud-alert-summarizer)
 [![Demo](https://img.shields.io/badge/Live%20Demo-fraudlens--demo.vercel.app-000000?style=flat-square&logo=vercel)](https://fraudlens-demo.vercel.app)
 
-### 💳 Credit Card Fraud Detection
+### Credit Card Fraud Detection
 **Python · XGBoost · SMOTE · SHAP · Streamlit**
 
 End-to-end fraud detection pipeline on 284,807 real transactions (0.17% fraud rate) — ROC-AUC 0.9832, PR-AUC 0.8471. SMOTE applied only to the training set to prevent leakage; SHAP TreeExplainer for per-prediction, audit-ready explanations.
@@ -48,7 +48,7 @@ End-to-end fraud detection pipeline on 284,807 real transactions (0.17% fraud ra
 [![Repo](https://img.shields.io/badge/Code-fraud--detection-181717?style=flat-square&logo=github)](https://github.com/a99el/fraud-detection)
 [![Demo](https://img.shields.io/badge/Live%20Demo-streamlit.app-FF4B4B?style=flat-square&logo=streamlit)](https://a99el-fraud-detection.streamlit.app)
 
-### 📉 Customer Churn Prediction
+### Customer Churn Prediction
 **Python · Scikit-learn · XGBoost · Streamlit**
 
 Compared Logistic Regression, Random Forest, and XGBoost on 7,043 telecom records (27% churn); ROC-AUC 0.868 with threshold tuning for churn-class F1. Includes an ROI calculator that translates predictions into retention-campaign revenue savings.
@@ -56,7 +56,7 @@ Compared Logistic Regression, Random Forest, and XGBoost on 7,043 telecom record
 [![Repo](https://img.shields.io/badge/Code-churn--predictor-181717?style=flat-square&logo=github)](https://github.com/a99el/churn-predictor)
 [![Demo](https://img.shields.io/badge/Live%20Demo-streamlit.app-FF4B4B?style=flat-square&logo=streamlit)](https://aseel-churn-predictor.streamlit.app)
 
-### 🚏 Street Sign Spotter
+### Street Sign Spotter
 **Python · YOLOv8 · PyTorch · OpenCV**
 
 Real-time street sign detection with YOLOv8 — full pipeline from dataset preparation through inference, evaluated with mAP/precision/recall and improved via iterative error analysis and GPU hyperparameter tuning.
@@ -77,7 +77,7 @@ Real-time street sign detection with YOLOv8 — full pipeline from dataset prepa
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG%20Pipelines-0F766E?style=for-the-badge&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=for-the-badge&logoColor=111111)
+![HuggingFace](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logoColor=111111)
 
 ### Data Engineering & Analysis
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
